@@ -1,0 +1,4 @@
+1.1 | tipo:ar_condicionado; zona:sala; estado:True; modo:refrigeracao; intensidade:15; temperatura:20
+2.2 | tipo:iluminacao; zona:escritorio; estado:True; intensidade:50
+1.3 | tipo:ar_condicionado; zona:cozinha; estado:True; modo:aquecimento; intensidade:0; temperatura:18
+iluminacao | intensidade:100

@@ -1,0 +1,58 @@
+[2024-07-18 16:51:44] {
+    "tag": "response",
+    "tipo": "GET-RESPONSE",
+    "timestamp": "18:07:2024:15:51:44",
+    "message_id": "id-4",
+    "ids": [
+        "tipo"
+    ],
+    "dispositivo_id": "1.1",
+    "valores": {
+        "tipo": "ar_condicionado"
+    },
+    "erros": []
+}
+[2024-07-18 16:51:45] {
+    "tag": "response",
+    "tipo": "GET-RESPONSE",
+    "timestamp": "18:07:2024:15:51:45",
+    "message_id": "id-8",
+    "ids": [
+        "tipo"
+    ],
+    "dispositivo_id": "1.1",
+    "valores": {
+        "tipo": "ar_condicionado"
+    },
+    "erros": []
+}
+[2024-07-18 16:51:48] {
+    "tag": "response",
+    "tipo": "GET-RESPONSE",
+    "timestamp": "18:07:2024:15:51:48",
+    "message_id": "id-12",
+    "ids": [
+        "tipo"
+    ],
+    "dispositivo_id": "1.1",
+    "valores": {
+        "tipo": "ar_condicionado"
+    },
+    "erros": []
+}
+[2024-07-18 16:51:54] {
+    "tag": "response",
+    "tipo": "SET-RESPONSE",
+    "timestamp": "18:07:2024:15:51:54",
+    "message_id": "id-16",
+    "ids": [
+        "tipo"
+    ],
+    "dispositivo_id": "1.1",
+    "valores": [
+        null
+    ],
+    "erros": [
+        "N\u00e3o \u00e9 permitido alterar o tipo de dispositivo."
+    ]
+}
